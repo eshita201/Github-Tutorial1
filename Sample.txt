@@ -1,0 +1,16 @@
+this is version 1 of project\\
+
+
+
+git status
+git init
+git config --global user.name "eshita201"
+git config --global user.email eshita201@gmail.com
+git remote add origin https://github.com/eshita201/Github-Practice.git
+git add --a
+git commit -m "initial commit"
+git remote -v
+git push origin master
+
+
+git clone -b dev https://github.com/eshita201/Github-Practice.git
