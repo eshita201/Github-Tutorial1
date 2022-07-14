@@ -1,8 +1,0 @@
-Hi this is a sample txt file
-
-I am adding a new change for iss01
-
-
-create a seperate branch for issues when approved
-
-Merge it with the latest ones

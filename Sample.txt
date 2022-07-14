@@ -22,3 +22,6 @@ git config --global user.email eshita201@gmail.com
 git clone -b dev https://github.com/eshita201/Github-Practice.git
 git branch -a
 git checkout -b dev-eshita
+git pull
+
+
